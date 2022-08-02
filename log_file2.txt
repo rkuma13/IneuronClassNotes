@@ -1,0 +1,2 @@
+INFO 2022-07-11 22:56:28,598 root Institute Affiliate check
+ERROR 2022-07-11 22:56:28,598 root log() missing 1 required positional argument: 'method'
